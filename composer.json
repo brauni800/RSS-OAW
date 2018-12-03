@@ -1,4 +1,6 @@
 {
+    "name": "rss",
+    "description": "Proyecto de Optimizacion de Aplicaciones Web",
     "require": {
         "simplepie/simplepie": "dev-master"
     }
